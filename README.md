@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/carincon93/fitotecturaWebApp/assets/18555989/e10c2c46-e3c6-4596-9b7d-bd9c3686d9fd" />
+  <img src="https://github.com/carincon93/fitotecturaWebApp/assets/18555989/12fc2fdf-71dd-48ca-8252-4d036dfb007b" />
 </div>
 
 \
